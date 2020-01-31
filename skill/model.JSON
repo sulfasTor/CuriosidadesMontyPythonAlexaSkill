@@ -1,0 +1,37 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "curiosidades de comida mexicana",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "DameUnDatoIntent",
+                    "slots": [],
+                    "samples": [
+                        "dime un dato",
+                        "que sabes de la comida mexicana",
+                        "dame un dato de la comida mexicana",
+                        "que puedes decirme de la comida mexicana",
+                        "dame un dato"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
